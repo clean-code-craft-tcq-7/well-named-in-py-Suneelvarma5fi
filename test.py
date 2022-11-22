@@ -1,3 +1,5 @@
+from process import get_pair_number_from_color, get_color_from_pair_number
+
 def color_pair_to_string(major_color, minor_color):
   return f'{major_color} {minor_color}'
 
