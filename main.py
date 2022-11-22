@@ -1,3 +1,6 @@
+from test import test_number_to_pair,test_pair_to_number
+from process import get_pair_number_from_color, get_color_from_pair_number
+
 MAJOR_COLORS = ['White', 'Red', 'Black', 'Yellow', 'Violet']
 MINOR_COLORS = ["Blue", "Orange", "Green", "Brown", "Slate"]
 
